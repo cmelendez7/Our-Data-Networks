@@ -1,5 +1,13 @@
 # Our-Data-Networks
 Information Technology Services
+Strategic & Advisory Services
+IT Strategy & Roadmapping: Aligning technology initiatives with business goals
+
+Digital Transformation Consulting: Guiding modernization efforts across cloud, data, and applications
+
+Enterprise Architecture: Designing scalable, secure, and integrated IT ecosystems
+
+Technology Assessments & Audits: Evaluating current systems for performance, security, and compliance
 <!DOCTYPE html>
 <html lang="en">
 <head>
